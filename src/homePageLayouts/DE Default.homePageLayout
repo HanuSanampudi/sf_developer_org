@@ -4,6 +4,5 @@
     <narrowComponents>standard-StandardSearch</narrowComponents>
     <narrowComponents>standard-Tags</narrowComponents>
     <narrowComponents>standard-RecentItems</narrowComponents>
-    <wideComponents>standard-Tasks</wideComponents>
     <wideComponents>standard-ProcessWorkitems</wideComponents>
 </HomePageLayout>
